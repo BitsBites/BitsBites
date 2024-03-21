@@ -1,21 +1,21 @@
 - <h1> I’m @BitsBites </h1> 
-Im currently doing a TI course
-i'm very curious about all sort of things such as:
-  -AI and machine learning
-  -eletronics and robotics
-  -ethical hacking and red teaming
-  -and really anything else that crosses my path both in the area of tecnology or life in gerera
+Im currently doing a TI course<br>
+i'm very curious about all sort of things such as:<br>
+  -AI and machine learning<br>
+  -eletronics and robotics<br>
+  -ethical hacking and red teaming<br>
+  -and really anything else that crosses my path both in the area of tecnology or life in gerera<br>
 
 <h2>got some langueges under my belt also like:</h2>
-both portugues(🇧🇷/🇵🇹) and english(🇬🇧) i can speak fluently
-also spanish(🇪🇸) to a lesser degree
-i'm and learning both:
-franch(🇫🇷)
-russian(🇷🇺)
-
-currently im creating a i'm attempting to make a website tho im not very talented im very presistent.
-
-TL;DR
+both portugues(🇧🇷/🇵🇹) and english(🇬🇧) i can speak fluently<br>
+also spanish(🇪🇸) to a lesser degree<br>
+i'm and learning both:<br>
+franch(🇫🇷)<br>
+russian(🇷🇺)<br>
+<br>
+currently im creating a i'm attempting to make a website tho im not very talented im very presistent.<br>
+<br>
+TL;DR<br>
 Im passionate about learning and living life to its fullest. ❤️‍🔥
 
 <!---
